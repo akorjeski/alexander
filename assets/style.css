@@ -1,4 +1,23 @@
 .card-text{
     background-color: white;
-    margin-top: 75px;
+}
+
+h3{
+  display: inline-block; 
+}
+
+#profilepicture{
+    display: block;
+}
+
+#profilelinks{
+    padding-top: 20px;
+}
+
+.card{
+    display: inline-block;
+}
+
+#portfolioMaster{
+    justify-content: center;
 }
