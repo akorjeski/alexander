@@ -5,9 +5,4 @@ Description: This repository houses my Full Stack Development e-portfolio. There
 
 Purpose: This e-portfolio is meant to act as a catalogue of both my skills and aspirations as a Full Stack Developer. My main goal for this portfolio is for it to replace my current resume, allowing prospective employers/collaborators an opportunity to learn more about me in a concise format.
 
-![Landing page of the portfolio](./assets/landingpage.png)
-![Contact Page](./assets/contactpage.png)
-![Project Portfolio](./assets/prjectportfolio.png)
-
-
 
